@@ -8,7 +8,7 @@ This day is solved using Go (https://golang.org/).
 # run tests
 go test
 
-# run a specific day
+# run day
 go run day9.go
 ```
 

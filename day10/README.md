@@ -6,7 +6,9 @@ This day is solved using Rust (https://www.rust-lang.org/).
 
 ```sh
 # run tests
+$ cargo test
 
-# run a specific day
+# run day
+$ cargo run
 ```
 
